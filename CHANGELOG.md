@@ -8,6 +8,8 @@ The changes documented here do not include those from the original repository.
 
 ## [Unreleased]
 
+## 5.0.0-OS8
+
 ### 2022-10-31
 - Replaced jcenter with more up to date mavenCentral [RMET-2036](https://outsystemsrd.atlassian.net/browse/RMET-2036)
 
