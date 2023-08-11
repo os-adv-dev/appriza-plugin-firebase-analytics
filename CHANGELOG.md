@@ -8,6 +8,11 @@ The changes documented here do not include those from the original repository.
 
 ## [Unreleased]
 
+## 5.0.0-OS10
+
+### 2023-08-11
+- Feat: update firebase core version (https://outsystemsrd.atlassian.net/browse/RMET-2451).
+
 ## 5.0.0-OS9
 
 ### 2023-01-12
